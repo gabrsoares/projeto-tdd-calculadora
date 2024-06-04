@@ -1,5 +1,5 @@
 # Projeto TDD Calculadora
-Projeto realizado com o intuito de praticar a ténica de Test Driven Development (TDD), onde o objetivo é fazer os testes de regras de negócio antes do desenvolvimento do programa.  
+Projeto realizado com o intuito de praticar a técnica de Desenvolvimento Orientado a Testes (TDD), utilizando o exemplo de uma calculadora, onde o objetivo é fazer os testes de regras de negócio antes do desenvolvimento do programa.  
 Neste projeto, as regras de negócio são:
 - Apenas números inteiros
 - 2 Parâmetros por opção
